@@ -1,1 +1,1 @@
-Material referente as aulas de Excel Avançado contendo o programa das aulas, planilha de trabalho das aulas.
+Material referente as aulas de Excel Avançado contendo o programa das aulas, planilhas de trabalho das aulas.
